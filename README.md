@@ -4,3 +4,5 @@ A simple ETL data pipeline that extract data from a random channel from Youtube 
 # Pipeline
 
 Youtube => Postgre
+![images](img_pipeline.jpg)
+
