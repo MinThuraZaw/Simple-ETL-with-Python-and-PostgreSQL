@@ -28,5 +28,3 @@ A simple ETL data pipeline that extract data from a random channel from Youtube 
 4) Convert these videos data into Pandas dataframe and transform them to get ready to load into Postgres.
 5) Use psycopg2 package and load the dataframe into Postgres database.
 
-
-* Thank you!
