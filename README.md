@@ -19,5 +19,9 @@ A simple ETL data pipeline that extract data from a random channel from Youtube 
 
 **External Packages**
 * psycopg2
+* googleapiclient
+
+
+# Development process
 
 
