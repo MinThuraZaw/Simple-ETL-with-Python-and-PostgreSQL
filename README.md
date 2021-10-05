@@ -4,6 +4,7 @@ A simple ETL data pipeline that extract data from a random channel from Youtube 
 # Pipeline
 
 ![pipeline](images/img_pipeline.jpg)
+![alt text](https://github.com/MinThuraZaw/Simple-ETL-with-Python-and-PostgreSQL/blob/main/images/img_pipeline.jpg)
 
 # Requirements
 
