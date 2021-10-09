@@ -22,7 +22,7 @@ A simple ETL data pipeline that extract data from a random channel from Youtube 
 
 
 
-# Development process
+# Development Steps
 1) Set up a Postgres database instance on ElephantSQL.
 2) Set up google cloud api services to get api key for youtube data.
 3) Use googleapiclient package to extract a random youtube channel's public videos data.
