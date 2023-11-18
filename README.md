@@ -1,9 +1,13 @@
 ### About
 A simple ETL data pipeline that extract data from a random channel from Youtube with Youtube Data v3 API and transform and load them into Postgres Database with Python.
 
+<br>
+
 ### Pipeline
 
 ![alt text](https://github.com/MinThuraZaw/Simple-ETL-with-Python-and-PostgreSQL/blob/main/images/img_pipeline.jpg)
+
+<br>
 
 ### Requirements
 
@@ -20,7 +24,7 @@ A simple ETL data pipeline that extract data from a random channel from Youtube 
 * psycopg2
 * googleapiclient
 
-
+<br>
 
 ### Development Steps
 1) Set up a Postgres database instance on ElephantSQL.
